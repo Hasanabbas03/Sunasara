@@ -1,6 +1,6 @@
 <?php
 
-echo "Start the project of gitub";
+echo "Start the project of gitub now";
 exit;
 
 
