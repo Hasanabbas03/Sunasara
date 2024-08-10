@@ -1,0 +1,8 @@
+<?php
+
+echo "Start the project of gitub";
+exit;
+
+
+
+?>
